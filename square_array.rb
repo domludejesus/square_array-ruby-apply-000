@@ -12,8 +12,3 @@ square_array(nums)
 
  
  
-#   num_array = [1,2,3]
-#   puts "#{num.each} do |2| print x , ** 2  " 
-  
-# end
-# square_array([2,3,4])
